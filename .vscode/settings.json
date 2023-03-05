@@ -10,5 +10,8 @@
         ".",
         "-p",
         "*test.py"
+    ],
+    "cSpell.words": [
+        "apague"
     ]
 }
